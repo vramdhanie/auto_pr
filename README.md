@@ -1,5 +1,5 @@
-#  To Run
+# To Run
 
 ```
-poetry run python your_script.py
+poetry run python main.py PR-ID
 ```
